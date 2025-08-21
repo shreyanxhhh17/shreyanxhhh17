@@ -27,7 +27,7 @@ A collaborative platform where users can **create or join tech teams** to work o
 
 ---
 
-### 🔹 [Phishing URL Detector](#) *(In Progress)*  
+### 🔹 [Phishing URL Detector](https://github.com/shreyanxhhh17/PhisGuard-phishing-website-detection-using-ML)(#)  
 AI + ML powered backend project to **detect malicious URLs with 99% accuracy** using real-time datasets and PhishTank integration.  
 **Tech:** Python, Scikit-learn, Flask, MongoDB  
 
