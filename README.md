@@ -33,13 +33,13 @@ AI + ML powered backend project to **detect malicious URLs with 99% accuracy** u
 
 ---
 
-### 🔹 [Gemini Clone](https://github.com/shreyanxhhh17/Gemini-Clone)  
+### 🔹 [Gemini Clone](https://gemini-clone-green-three.vercel.app/)  
 A clone of Google’s Gemini AI frontend with clean UI and interactive responses.  
 **Tech:** React, Tailwind CSS  
 
 ---
 
-### 🔹 [Portfolio Website](https://github.com/shreyanxhhh17/Portfolio)  
+### 🔹 [Portfolio Website](https://shreyansh-portfolio-lime.vercel.app/)  
 Personal portfolio showcasing my projects and journey. Built with modern responsive design.  
 **Tech:** React, Tailwind, Vercel  
 
@@ -53,9 +53,7 @@ Personal portfolio showcasing my projects and journey. Built with modern respons
 ---
 
 📫 **Reach Me At:**  
-- 📧 shreyanxhhh17@gmail.com  
-- 🌐 [Portfolio](#) (Coming Soon)  
-- 💼 [LinkedIn](#)  
+- 📧sahushriyansh200@gmail.com
 
 ---
 ⭐️ From [shreyanxhhh17](https://github.com/shreyanxhhh17)
